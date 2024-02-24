@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/development/flutter/packages/flutter/lib/src/widgets/image.dart" root0="FORCE_HIGHLIGHTING" />
   </component>
